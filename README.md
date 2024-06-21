@@ -1,4 +1,5 @@
-
+# Project is just forked, intensive R&D work is still ongoing.
+ 
 # ESP32C3电流表
 
 基于[硬创社一款ESP32C3方案](https://x.jlc.com/platform/detail/4d6a2bda7be04d82ac1198d2ee54cad1?type=1)的修改版项目
